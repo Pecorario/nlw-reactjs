@@ -38,7 +38,7 @@ export function Home() {
       return;
     }
 
-    if (!roomRef.val().endetAt) {
+    if (!roomRef.val().endedAt) {
       alert('Room already closed');
       return;
     }
