@@ -24,18 +24,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## Acesso
+## 🔗 Acesso
 Você pode acessar o site de produção do repositório através do link:
 
-```bash
-https://nlw-reactjs.web.app/
-```
+- [Letmeask](https://nlw-reactjs.web.app/)
 
 ## 🚀 Repositório original
 
-```bash
-https://github.com/rocketseat-education/nlw-06-reactjs
-```
+- [rocketseat-education/nlw-06-reactjs](https://github.com/rocketseat-education/nlw-06-reactjs)
 
 ## 🚀 Como executar
 
